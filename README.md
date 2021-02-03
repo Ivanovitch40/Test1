@@ -7,3 +7,4 @@ Hola esto es un parrafo
 
 -Negrita-
 
+[Enlace a pagina 2](Pagina2)
