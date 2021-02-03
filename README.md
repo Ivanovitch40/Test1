@@ -1,10 +1,11 @@
 # Test1
 # Encabezados
 Soy parrafos
+
 Hola esto es un parrafo
 
 *cursiva*
 
--Negrita-
+"Negrita"
 
 [Enlace a pagina 2](pagina2.md)
