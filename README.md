@@ -7,4 +7,4 @@ Hola esto es un parrafo
 
 -Negrita-
 
-[Enlace a pagina 2](Pagina2)
+[Enlace a pagina 2](pagina2.md)
