@@ -1,9 +1,9 @@
 # Test1
-# ou yeah
-GitHub supports emoji!
-:rocket
+# Encabezados
+Soy parrafos
 Hola esto es un parrafo
 
-*buenas tardes*
+*cursiva*
 
-Adios
+-Negrita-
+
