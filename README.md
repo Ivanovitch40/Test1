@@ -10,4 +10,4 @@ Hola esto es un parrafo
 
 [Enlace a pagina 2](pagina2.md)
 
-![Imagen de Perro](https://www.pinterest.es/pin/443815738250304229/(
+![Imagen de Perro](https://www.pinterest.es/pin/443815738250304229/)
